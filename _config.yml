@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: true
-#weibo_username:     username
+weibo_username:     rmrb
 #zhihu_username:     username
 github_username:    blankmagic
 #facebook_username:  username
-jianshu_username:   68631467e999
+#jianshu_username:   68631467e999
 twitter_username:   blankmagic_
 
 
@@ -89,7 +89,7 @@ ga_domain: auto            # 默认的是 auto, 这里我是自定义了的域�
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "这世上没有陌生人，只有未相识的朋友。 <br> 知交零落是人生常态，能够偶尔话起，而心中仍然温柔，就是好朋友。"
+sidebar-about-description: "知交零落是人生常态， <br> 能够偶尔话起， <br> 而心中仍然温柔， <br> 就是好朋友。 <br> Less is more."
 sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

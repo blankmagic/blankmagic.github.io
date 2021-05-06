@@ -4,7 +4,7 @@ title:      "Surge | 规则：逻辑规则"
 subtitle:   "Surge 逻辑规则简单示例"
 date:       2021-05-06
 author:     "MAICOO"
-header-img: "img/post-bg-surge.jpg"
+header-img: "img/post-bg-.jpg"
 catalog: true
 tags:
     - Surge

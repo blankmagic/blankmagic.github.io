@@ -89,7 +89,7 @@ ga_domain: auto            # 默认的是 auto, 这里我是自定义了的域�
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "知交零落是人生常态， <br> 能够偶尔话起， <br> 而心中仍然温柔， <br> 就是好朋友。 <br> Less is more."
+sidebar-about-description: "知交零落是人生常态， <br> 能够偶尔话起， <br> 而心中仍然温柔， <br> 就是好朋友。 <br> Goals determine what you going to be!"
 sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

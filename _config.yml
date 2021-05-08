@@ -1,10 +1,10 @@
 # Site settings
 title: MAICOO
-SEOTitle: 麦可的博客 | MAICOO Blog
+SEOTitle: 麦可的博客 | MAICOO
 header-img: img/home-bg-desk.jpg
 # email: email@mail.com
 description: "真诚且野蛮"
-keyword: "MAICOO, MAICOO Blog, 麦可的博客, maicoo, 麦可, iOS, Apple, Surge"
+keyword: "MAICOO, maicoo blog, 麦可的博客, maicoo, 麦可, iOS, Apple, Surge"
 url: "http://blankmagic.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
